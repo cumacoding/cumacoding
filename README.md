@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning laravel framework
 - 💞️ I’m looking to collaborate on other developers 
 - 📫 How to reach me you can contact me at my email fegasasui495@gmail.com 
-- 😄 Pronouns: -
-- ⚡ Fun fact: im just jump into coding like 3 months ago in web application
+- 😄 Pronouns: Indonesia & English
+- ⚡ Fun fact: curious At first I thought it would be difficult to developing a web, but it turned out to be more interesting to explore.
 
 <!---
 cumacoding/cumacoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
